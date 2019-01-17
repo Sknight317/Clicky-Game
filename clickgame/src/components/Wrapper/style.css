@@ -1,11 +1,11 @@
 .wrapper {
-    width: 1000px;
+    width: 900px;
     padding-right: 200px;
     padding-left: 200px;
     padding-top: 50px;
     padding-bottom: 50px;
     background: #ECEFF1;
-    height: 80%;
+    height: 70%;
     display: flex;
     flex-wrap: wrap;
     padding: 20px;
