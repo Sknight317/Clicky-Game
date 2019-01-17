@@ -4,7 +4,7 @@ import "./style.css";
 function Header(props) {
   return <div className="title">
         <div className="score">
-        Score: {props.score} Message: {props.message} Top Score: {props.topscore}
+       {props.children}
 
         </div>
         </div>;

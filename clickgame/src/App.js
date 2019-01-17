@@ -65,7 +65,11 @@ shuffleArray = (image) => {
       <Wrapper>
         
          
-        <Header></Header>
+        <Header>
+        <p>Score: {this.state.score}</p>
+        <p> {this.state.message} </p>
+        <p>Top Score: {this.state.topScore} </p>
+        </Header>
         {this.state.image.map(image => (
           <ImageCard
             clickImage={this.clickImage}
