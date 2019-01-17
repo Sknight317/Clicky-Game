@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Camel",
+      "image": "http://pngimg.com/uploads/camel/camel_PNG2920.png",
+      "clicks": 0
+    },
+    {
+      "id": 2,
+      "name": "Tiger",
+      "image": "http://pluspng.com/img-png/cute-wild-animal-png-animals-clipart-png-cartoon-animals-png-cute-animal-png-wild-animals-png-animals-png-image-cute-animal-png-4-1091.png",
+      "clicks": 0
+    },
+    {
+      "id": 3,
+      "name": "Bear",
+      "image": "http://pluspng.com/img-png/animal-png-grizzly-bear-photo-600.png",
+      "clicks": 0
+      
+    },
+    {
+      "id": 4,
+      "name": "Squirrel",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl-WTYMrCBL385x3_cYVHAbBi0wuuMd7xplERt8mzd7-_ruI6Aw",
+      "clicks": 0
+    },
+    {
+      "id": 5,
+      "name": "Snake",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVIyER_w0R8lQsMwJt1tIF83iY69ZH1C6lFN8daZqGxhvOxA3",
+      "clicks": 0
+    },
+    {
+      "id": 6,
+      "name": "Kittens",
+      "image": "https://morepng.com/public/uploads/thumbnail//animals-png-3-11527493501btsbc8nql4.png",
+      "clicks": 0
+    },
+    {
+      "id": 7,
+      "name": "Bunny",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kwqx8yrk_lUYJy93vNjy6QsZET_iksxzSV3maNG1pJTaAvqM",
+      "clicks": 0
+    },
+    {
+      "id": 8,
+      "name": "Dog",
+      "image": "https://morepng.com/public/uploads/thumbnail//animals-png-28-11527496414zuaxpbtafu.png",
+      "clicks": 0
+    },
+    {
+      "id": 9,
+      "name": "Bird",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YhUFXih0V9J5Xcs3UUy795fIsBxVT0Gw7Ozwzes1Nnq2rF77",
+      "clicks": 0
+    },
+    {
+      "id": 10,
+      "name": "Deer",
+      "image": "https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/06/30085643/Deer-PNG-Image.png",
+      "clicks": 0
+    },
+    {
+      "id": 11,
+      "name": "Cat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2P3lWm0So8QU7u1ytqz_uJrm9ZMOrTucyX57Iz_TS0ARHmXX6IQ",
+      "clicks": 0
+    },
+    {
+      "id": 12,
+      "name": "Dog2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Q182vlrOqHHUKceanYqvWJR1cjY3xG9h693gaf5YEXsEKI_rMw",
+      "clicks": 0
+    }
+  ]
