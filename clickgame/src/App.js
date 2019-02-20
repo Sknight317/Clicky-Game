@@ -2,8 +2,9 @@ import React, { Component } from "react";
 import ImageCard from "./components/ImageCard";
 import Wrapper from "./components/Wrapper";
 import image from "./image.json";
-import Header from "./components/Header"
-import Navbar from "./components/Navbar"
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
+
 
 class App extends Component {
   // Setting this.state.image to the image json array
@@ -63,17 +64,18 @@ shuffleArray = (image) => {
   render() {
     return (
       
-      
-      <Wrapper>
+    <Wrapper>
        <Navbar
         score={this.state.score}
         message={this.state.message}
         topScore={this.state.topScore}
         />   
          
-        <Header>
+        <Header/>
       
-        </Header>
+        
+      
+      
         {this.state.image.map(image => (
           <ImageCard
             clickImage={this.clickImage}
@@ -84,6 +86,7 @@ shuffleArray = (image) => {
           />
         ))}
       </Wrapper>
+    
     );
   }
 }
